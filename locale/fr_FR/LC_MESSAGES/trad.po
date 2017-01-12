@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: french_v1\n"
+"POT-Creation-Date: 2016-12-12 18:36+0100\n"
+"PO-Revision-Date: 2016-12-12 18:36+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ../../../themes/origin/public/skeleton\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: _\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: about-section.php:9 navbar1.php:24 twitter-section.php:6
+msgid "about"
+msgstr "a propos"
+
+#: about-section.php:33
+msgid "My resume"
+msgstr "Mon CV"
+
+#: contact.php:12 navbar1.php:30
+msgid "contact me"
+msgstr "contactez-moi"
+
+#: contact.php:19
+msgid "* required fields"
+msgstr "* champs obligatoires"
+
+#: contact.php:21
+msgid "Full Name"
+msgstr "Prénom Nom"
+
+#: contact.php:23
+msgid "Subject"
+msgstr "Sujet"
+
+#: contact.php:25
+msgid "Phone"
+msgstr "Téléphone"
+
+#: contact.php:27
+msgid "Email"
+msgstr "Adresse mail"
+
+#: contact.php:29
+msgid "Comments"
+msgstr "Message"
+
+#: contact.php:31
+msgid "Send Message"
+msgstr "Envoyer"
+
+#: footer.php:6
+msgid "web design"
+msgstr "modèles web"
+
+#: footer.php:20
+msgid "social network"
+msgstr "réseaux sociaux"
+
+#: footer.php:37
+msgid "terms of use"
+msgstr "mentions légales"
+
+#: footer.php:38
+msgid "All rights reserved"
+msgstr "Tous droits réservés"
+
+#: mentions.php:148
+msgid "Close"
+msgstr "Fermer"
+
+#~ msgid "others"
+#~ msgstr "autres"
+
+#~ msgid "portfolio"
+#~ msgstr "autres"
